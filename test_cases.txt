@@ -25,3 +25,29 @@ Search Query: "prowly"
 
 Test Environment:
 Web browser: Chrome
+
+
+Test Case Identifier: TC-Prowly-02
+
+Objective: To verify that the "Finance" content category filter on Google.com correctly displays finance-related results when searching for "prowly."
+
+Preconditions:
+Open the Google Chrome web browser.
+Navigate to the Google.com homepage.
+Test Case Description: This test case verifies the functionality of the "Finance" content category filter while searching for "prowly" on Google.com.
+
+Test Steps:
+In the Google Chrome web browser, go to the Google.com homepage.
+In the search bar, enter "prowly" as the search query.
+Press the "Enter" key to initiate the search.
+Look for the "Finance" content category filter option on the search results page.
+Click on the "Finance" content category filter.
+
+Expected Result:
+The search results should exclusively display finance-related content related to "prowly," such as financial news articles, stock market data, investment information, or financial services.
+
+Test Data:
+Search Query: "prowly"
+
+Test Environment:
+Web browser: Chrome
