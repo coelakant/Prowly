@@ -1,0 +1,27 @@
+Test Case Identifier: TC-Prowly-01
+
+Objective: To verify that the "Maps" content category filter on Google.com correctly displays maps and location-related results when searching for "prowly."
+
+Preconditions:
+Open the Google Chrome web browser.
+Navigate to the Google.com homepage.
+Test Case Description: This test case verifies the functionality of the "Maps" content category filter while searching for "prowly" on Google.com.
+
+Test Steps:
+In the Google Chrome web browser, go to the Google.com homepage.
+In the search bar, enter "prowly" as the search query.
+Press the "Enter" key to initiate the search.
+Look for the "Maps" content category filter option on the search results page.
+Click on the "Maps" content category filter.
+
+Expected Result:
+The search results should exclusively display maps and location-related information associated with "prowly."
+Each result should include a map view, location details (e.g., addresses), and, if available, additional information such as reviews or ratings.
+There should be no web pages, images, videos, news articles, or other content types in the results.
+The map results should be interactive, allowing users to zoom in/out and explore the locations.
+
+Test Data:
+Search Query: "prowly"
+
+Test Environment:
+Web browser: Chrome
